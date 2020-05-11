@@ -1,5 +1,8 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 ![GitHub](https://img.shields.io/github/license/bstolle/react-pokedex?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/bstolle/react-pokedex?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/bstolle/react-pokedex?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/bstolle/react-pokedex?style=for-the-badge)
+![pokemon tagline](https://img.shields.io/badge/Gotta%20Catch-them%20all!-red?style=for-the-badge)
 
 # Pokédex
 
