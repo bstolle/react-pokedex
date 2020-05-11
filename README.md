@@ -1,5 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+https://badgen.net/github/stars/micromatch/micromatch
+
 # Pokédex
 
 A quick site for browsing pokemon and visualizing any pokemon lists.
