@@ -1,6 +1,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-https://badgen.net/github/stars/micromatch/micromatch
+![GitHub](https://img.shields.io/github/license/bstolle/react-pokedex?style=for-the-badge)
 
 # Pokédex
 
